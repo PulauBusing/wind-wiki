@@ -1,18 +1,9 @@
 ![logo](_media/icon.svg) 
 
-# docsify <small>3.5</small>
+# wind & sky
 
-> 一个神奇的文档网站生成器。
+> 风小羽的知识库。
 
-
-
-- 简单、轻便 (压缩后 ~21kB) 
-
-- 无需生成 html 文件 
-- 众多主题
-
-
-
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/PulauBusing/wind-wiki)
 [Get Started](/homePage)
 
