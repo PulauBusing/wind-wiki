@@ -4,4 +4,6 @@
   - [设计模式](data/java/design-mode)
 - [动动手](data/practice/intro)
   - [搭建个人知识库](data/practice/build-wiki)
-
+- [Tool](data/tool/intro)
+  - [IDEA](data/tool/idea)
+  - [Mysql](data/tool/mysql)
