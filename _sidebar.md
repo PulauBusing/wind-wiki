@@ -5,6 +5,8 @@
   - [正则表达式](data/java/regex)
   - [Spring Boot](data/Java/SpringBoot/intro)
     - [Spring Boot版本选择](data/Java/SpringBoot/SpringBoot-version)
+  - [状态机](data/Java/statemachine/intro)
+    - [Spring Statemachine](data/Java/statemachine/spring-statemachine)
 - [动动手](data/practice/intro)
   - [搭建个人知识库](data/practice/build-wiki)
 - [Tool](data/tool/intro)
